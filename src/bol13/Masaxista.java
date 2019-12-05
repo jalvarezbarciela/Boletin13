@@ -41,9 +41,11 @@ public class Masaxista extends SeleccionFutbol{
         System.out.println("O masaxista da masaxes");
     }
     
+    @Override
      public void Concentrarse() {
         System.out.println("O masaxista concentrase");
     }
+    @Override
       public void Viaxar() {
         System.out.println("O masaxista viaxa");
     }

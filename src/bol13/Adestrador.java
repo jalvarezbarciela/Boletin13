@@ -41,10 +41,12 @@ public class Adestrador extends SeleccionFutbol {
         System.out.println("O adestrador dirixe o adestramento");
     }
     
+    @Override
     public void Viaxar(){
         System.out.println("O adestrador viaxa");
     }
      
+    @Override
     public void Concentrarse() {
         System.out.println("O adestrador concentrase");
     }

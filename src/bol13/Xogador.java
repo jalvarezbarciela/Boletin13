@@ -40,10 +40,12 @@ public class Xogador extends SeleccionFutbol {
         return super.toString() + ", dorsal=" + dorsal + ", demarcacion=" + demarcacion;
     }
 
+    @Override
     public void Concentrarse() {
         System.out.println("O xogador concentrase");
     }
 
+    @Override
     public void Viaxar() {
         System.out.println("O xogador viaxa");
     }
