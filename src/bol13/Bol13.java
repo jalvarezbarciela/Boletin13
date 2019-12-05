@@ -13,10 +13,10 @@ public class Bol13 {
         x.Concentrarse();
         a.Concentrarse();
         m.Concentrarse();
-        s.Concentrarse();
-        x.Concentrarse();
-        a.Concentrarse();
-        m.Concentrarse();
+        s.Viaxar();
+        x.Viaxar();
+        a.Viaxar();
+        m.Viaxar();
     }
     
 }
